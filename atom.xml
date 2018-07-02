@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>George&#39;s INN</title>
+  
+  <subtitle>Think Different</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wujiaji.github.io/"/>
+  <updated>2018-07-01T12:39:47.627Z</updated>
+  <id>https://wujiaji.github.io/</id>
+  
+  <author>
+    <name>Wu Jiaji</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://wujiaji.github.io/2018/07/01/hello-world/"/>
+    <id>https://wujiaji.github.io/2018/07/01/hello-world/</id>
+    <published>2018-07-01T05:51:53.012Z</published>
+    <updated>2018-07-01T12:39:47.627Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Manual" scheme="https://wujiaji.github.io/categories/Manual/"/>
+    
+    
+      <category term="npm" scheme="https://wujiaji.github.io/tags/npm/"/>
+    
+      <category term="hexo" scheme="https://wujiaji.github.io/tags/hexo/"/>
+    
+      <category term="github" scheme="https://wujiaji.github.io/tags/github/"/>
+    
+  </entry>
+  
+</feed>
